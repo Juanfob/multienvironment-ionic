@@ -1,5 +1,7 @@
 {
   "name": "ionic-multiEnvs",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
